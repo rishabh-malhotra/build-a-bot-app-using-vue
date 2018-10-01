@@ -28,8 +28,4 @@ export default {
 .robot{
   height: 300px;
 }
-
-.get-started{
-
-}
 </style>
