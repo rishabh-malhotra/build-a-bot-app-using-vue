@@ -18,7 +18,7 @@ const parts = {
       src: images('./head-friendly.png'),
       cost: 945.0,
       type: 'heads',
-      onSale: true
+      onSale: true,
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ const parts = {
       title: 'Shredder',
       src: images('./head-shredder.png'),
       type: 'heads',
-      cost: 1275.5
+      cost: 1275.5,
     },
     {
       id: 4,
@@ -36,7 +36,7 @@ const parts = {
       title: 'Small Cyclops',
       src: images('./head-single-eye.png'),
       type: 'heads',
-      cost: 750.0
+      cost: 750.0,
     },
     {
       id: 5,
@@ -45,8 +45,8 @@ const parts = {
       title: 'Surveillance Bot',
       src: images('./head-surveillance.png'),
       type: 'heads',
-      cost: 1255.5
-    }
+      cost: 1255.5,
+    },
   ],
   arms: [
     {
@@ -55,7 +55,7 @@ const parts = {
       title: 'Articulated',
       src: images('./arm-articulated-claw.png'),
       type: 'arms',
-      cost: 275
+      cost: 275,
     },
     {
       id: 2,
@@ -63,7 +63,7 @@ const parts = {
       title: 'Two Clawed',
       src: images('./arm-dual-claw.png'),
       type: 'arms',
-      cost: 285
+      cost: 285,
     },
     {
       id: 3,
@@ -71,7 +71,7 @@ const parts = {
       title: 'Grabber',
       src: images('./arm-grabber.png'),
       type: 'arms',
-      cost: 205.5
+      cost: 205.5,
     },
     {
       id: 4,
@@ -80,7 +80,7 @@ const parts = {
       src: images('./arm-propeller.png'),
       type: 'arms',
       cost: 230,
-      onSale: true
+      onSale: true,
     },
     {
       id: 5,
@@ -89,7 +89,7 @@ const parts = {
       src: images('./arm-stubby-claw.png'),
       type: 'arms',
       cost: 125,
-    }
+    },
   ],
   torsos: [
     {
@@ -116,7 +116,7 @@ const parts = {
       type: 'torsos',
       cost: 785,
       onSale: true,
-    }
+    },
   ],
   bases: [
     {
